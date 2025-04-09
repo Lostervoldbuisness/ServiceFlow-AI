@@ -38,3 +38,24 @@ ServiceFlow AI aims to help home service contractors never miss a customer again
 
 ## 📞 Contact
 Your Name (your.email@example.com)
+
+
+## 📊 Current State of ServiceFlow AI (MVP)
+
+✅ Airtable database set up  
+✅ Twilio Studio flow (waiting approval)  
+✅ AI SMS responses via ChatGPT (Zapier integration, pending testing)  
+✅ Calendly scheduling integration  
+✅ Lead dashboard built in Softr.io  
+
+## 🛠️ Tools in use explicitly:
+
+- **Database & Lead Management**: Airtable  
+- **SMS Communication**: Twilio Studio, OpenAI (ChatGPT), Zapier  
+- **Scheduling**: Calendly  
+- **Dashboard**: Softr.io  
+
+## ⏳ Pending explicitly:
+
+- Twilio approval for SMS  
+- Testing SMS automation
